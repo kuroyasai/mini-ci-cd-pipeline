@@ -1,0 +1,1 @@
+bucket_name = "sree-tf-mini-cicd-2026"
